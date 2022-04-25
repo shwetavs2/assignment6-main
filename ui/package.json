@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jainamshethhere/assignment5.git"
+    "url": ""
   },
-  "author": "Jainam Sheth",
+  "author": " ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jainamshethhere/assignment5/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jainamshethhere/assignment5#readme",
+  "homepage": "",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^3.4.1",
